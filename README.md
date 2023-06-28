@@ -1,12 +1,16 @@
 # Machine Attacks
 
+Check the [releases](https://github.com/KatsuteTF/Machine-Attacks/releases) tab for downloads.
+
 Machine Attacks includes all map, navigation, population, and premium upgrade files. Does not include episode 0.
 
 * Machine Attacks v2
 * Machine Attacks v3
 * Premium Upgrade HUD for Machine Attacks
 
-Check the [releases](https://github.com/KatsuteTF/Machine-Attacks/releases) tab for downloads.
+Add `sv_allow_point_servercommand always` to config for all of these maps.
+
+Add `tf_grapplinghook_enable 1` to config for episode 13.
 
 ## &nbsp;
 
